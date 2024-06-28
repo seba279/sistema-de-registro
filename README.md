@@ -5,3 +5,5 @@
 Para ejecutar el sistema
 
 ```npm start```
+
+Sistema de Registro 2
