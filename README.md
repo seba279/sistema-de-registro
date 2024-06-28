@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema
 
-```npm star```
+```npm start```
